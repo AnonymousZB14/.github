@@ -1,12 +1,58 @@
-## USports
+# ⚽ USports 🏋
 
-<!--
 
-**Here are some ideas to get you started:**
+## 🧑‍🏫 프로젝트 소개
+<br/>
+저희 프로젝트 이름인 'USports'는 'US'와 'SPORTS'의 합성어입니다.<br/>
+이름에서 알 수 있듯이 '혼자서 하는 운동'이 아닌 '함께 하는 운동'이 될 수 있도록 지원하는 애플리케이션입니다. <br/>
+각자의 <strong>운동 기록</strong> 을 공유할 수 있고,
+<strong>모집 기능</strong>을 통해 같이 운동할 사람들을 모집할 수도 있습니다.<br/>
+USports를 통해 운동에 대한 동기부여도 얻고, 함께 운동하는 즐거움을 느낄 수 있길 바랍니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## 🧑‍💻 팀원 소개
+
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+|**Back-End**|**Back-End**|**Back-End**|**Front-End**|
+|**류현식**|**이제준**|**김문진**|**이나라**|
+
+
+## 💻 기술 스택
+
+### Front-End
+
+
+### Back-End
+
+<img src="https://img.shields.io/badge/java-007396?&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?&logo=gradle&logoColor=white"> 
+<img src="https://img.shields.io/badge/springboot-6DB33F?&logo=springboot&logoColor=white"> 
+<img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white"> <br/>
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/OAUTH2-EC1C24?&logo=Authy&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring JPA-6DB33F?&logo=Spring JPA&logoColor=white"> <img src="https://img.shields.io/badge/Spring JPA-6DB33F?&logo=Spring JPA&logoColor=white"> <img src="https://img.shields.io/badge/SSE-160b7a?logo=SSE&logoColor=white"> <br/>
+<img src="https://img.shields.io/badge/Websocket-cc8812?logo=Websocket&logoColor=white"> <img src="https://img.shields.io/badge/STOMP-d10606?logo=STOMP&logoColor=white"> <img src="https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white">
+
+
+### Database
+
+<img src="https://img.shields.io/badge/mariaDB-003545?logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/mongoDB-47A248?logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon S3-569A31?&logo=Amazon S3&logoColor=white"> 
+
+### Deploy
+
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?&logo=Amazon EC2&logoColor=white">
+
+### Communication
+
+<img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white">
+
+
+## Architecture 
+
+
+## Link
+
+[Notion](https://gleaming-canid-70b.notion.site/USPORTS-SNS-c10174ce56d7451094935fc9d4b4765f?pvs=4)<br/>
+[FE REPOSITORY](https://github.com/AnonymousZB14/USports_FE)<br/>
+[BE REPOSITORY](https://github.com/AnonymousZB14/USports_BE)
