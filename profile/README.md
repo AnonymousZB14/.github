@@ -1,4 +1,8 @@
-# ⚽ USports 🏋
+<div align=center>
+  <img src="https://github.com/AnonymousZB14/USports_BE/assets/108650920/8c530b03-ab59-4713-9a39-966586e58a46"/>
+</div>
+
+<!--# ⚽ USports 🏋-->
 
 
 ## 🧑‍🏫 프로젝트 소개
@@ -48,10 +52,10 @@ USports를 통해 운동에 대한 동기부여도 얻고, 함께 운동하는 �
 <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white">
 
 
-## Architecture 
+## 🛠 Architecture 
 
 
-## Link
+## 🔗 Link
 
 [Notion](https://gleaming-canid-70b.notion.site/USPORTS-SNS-c10174ce56d7451094935fc9d4b4765f?pvs=4)<br/>
 [FE REPOSITORY](https://github.com/AnonymousZB14/USports_FE)<br/>
