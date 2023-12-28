@@ -17,7 +17,7 @@ USports를 통해 운동에 대한 동기부여도 얻고, 함께 운동하는 �
 ## 🧑‍💻 팀원 소개
 <div align=center>
   
-|  |  |  |  |
+|<img src = "https://github.com/AnonymousZB14/.github/assets/115455126/8ca9b104-7657-4e26-be0c-bd18d612ff7f" width="250" height="250">| |<img src = "https://github.com/AnonymousZB14/.github/assets/115455126/5a9f49c1-c498-4267-b5b5-1fee39ff0b5f" width = "250" height="250">|<img src = "https://github.com/AnonymousZB14/.github/assets/115455126/f6bfc5c1-fc30-4109-bc47-d5870849c664" width="250" height="250">|
 |:---:|:---:|:---:|:---:|
 |**Back-End**|**Back-End**|**Back-End**|**Front-End**|
 |**류현식**|**이제준**|**김문진**|**이나라**|
