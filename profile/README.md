@@ -34,7 +34,7 @@ USports를 통해 운동에 대한 동기부여도 얻고, 함께 운동하는 �
 <img src="https://img.shields.io/badge/java-007396?&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?&logo=gradle&logoColor=white"> 
 <img src="https://img.shields.io/badge/springboot-6DB33F?&logo=springboot&logoColor=white"> 
 <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white"> <br/>
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/OAUTH2-EC1C24?&logo=Authy&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/OAUTH2-EC1C24?&logo=OAUTH2&logoColor=white"> 
 <img src="https://img.shields.io/badge/Spring JPA-6DB33F?&logo=Spring JPA&logoColor=white"> <img src="https://img.shields.io/badge/Spring JPA-6DB33F?&logo=Spring JPA&logoColor=white"> <img src="https://img.shields.io/badge/SSE-160b7a?logo=SSE&logoColor=white"> <br/>
 <img src="https://img.shields.io/badge/Websocket-cc8812?logo=Websocket&logoColor=white"> <img src="https://img.shields.io/badge/STOMP-d10606?logo=STOMP&logoColor=white"> <img src="https://img.shields.io/badge/Rabbitmq-FF6600?logo=rabbitmq&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white">
