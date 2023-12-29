@@ -56,6 +56,8 @@ USports를 통해 운동에 대한 동기부여도 얻고, 함께 운동하는 �
 
 ## 🛠 Architecture 
 
+<img src = "https://github.com/AnonymousZB14/.github/assets/115455126/2236c72e-d5e3-44fa-b9a2-b66f0d6af0bb">
+
 
 ## 🔗 Link
 
