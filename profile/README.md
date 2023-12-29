@@ -28,6 +28,11 @@ USports를 통해 운동에 대한 동기부여도 얻고, 함께 운동하는 �
 
 ### Front-End
 
+<img src="https://img.shields.io/badge/typescript-3178C6?&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/nextdotjs-000000?&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/recoil-3578E5?&logo=recoil&logoColor=white">
+<img src="https://img.shields.io/badge/sass-CC6699?&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?&logo=tailwindcss&logoColor=white"> <br/>
+<img src="https://img.shields.io/badge/axios-5A29E4?&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/reactquery-FF4154?&logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/eslint-4B32C3?&logo=eslint&logoColor=white">
+<img src="https://img.shields.io/badge/prettier-F7B93E?&logo=prettier&logoColor=white">
+
 
 ### Back-End
 
@@ -40,6 +45,7 @@ USports를 통해 운동에 대한 동기부여도 얻고, 함께 운동하는 �
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white">
 
 
+
 ### Database
 
 <img src="https://img.shields.io/badge/mariaDB-003545?logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/mongoDB-47A248?logo=MongoDB&logoColor=white">
@@ -47,7 +53,7 @@ USports를 통해 운동에 대한 동기부여도 얻고, 함께 운동하는 �
 
 ### Deploy
 
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?&logo=Amazon EC2&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?&logo=Amazon EC2&logoColor=white"> 
 
 ### Communication
 
