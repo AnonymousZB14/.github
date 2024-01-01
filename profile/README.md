@@ -99,7 +99,7 @@ USports를 통해 운동에 대한 동기부여도 얻고, 함께 운동하는 �
 <h2>🛠 Architecture 🛠</h2>
 </div>
 
-<img src = "https://github.com/AnonymousZB14/.github/assets/115455126/2236c72e-d5e3-44fa-b9a2-b66f0d6af0bb">
+<img src = "https://github.com/AnonymousZB14/.github/assets/108650920/41f76a20-674c-43fd-a7ff-599713306761">
 
 <div align=center>
 <h2>🔗 Link 🔗</h2>
